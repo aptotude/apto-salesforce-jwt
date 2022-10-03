@@ -1,11 +1,11 @@
 {
   "name": "apto-salesforce-jwt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SalesForce Auth 2.0 JWT Bearer Token Flow Implementation",
   "main": "./lib/index.js",
   "dependencies": {
-    "jsonwebtoken": "0.2.0",
-    "request":" 2.34.0"
+    "jsonwebtoken": "^8.5.1",
+    "request": "^2.88.2"
   },
   "repository": {
     "type": "git",
